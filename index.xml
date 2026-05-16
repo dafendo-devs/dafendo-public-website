@@ -6,8 +6,38 @@
     <description>Recent content on Dafendo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>© 2026 </copyright>
-    <atom:link href="https://dafendo-devs.github.io/dafendo-public-website/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Dafendo © 2026 - Todos los derechos reservados.</copyright>
+    <lastBuildDate>Fri, 15 May 2026 20:08:53 +0200</lastBuildDate><atom:link href="https://dafendo-devs.github.io/dafendo-public-website/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://dafendo-devs.github.io/dafendo-public-website/contacto/</link>
+      <pubDate>Fri, 15 May 2026 20:08:53 +0200</pubDate>
+      
+      <guid>https://dafendo-devs.github.io/dafendo-public-website/contacto/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nosotros</title>
+      <link>https://dafendo-devs.github.io/dafendo-public-website/nosotros/</link>
+      <pubDate>Fri, 15 May 2026 20:08:42 +0200</pubDate>
+      
+      <guid>https://dafendo-devs.github.io/dafendo-public-website/nosotros/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Soluciones</title>
+      <link>https://dafendo-devs.github.io/dafendo-public-website/soluciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dafendo-devs.github.io/dafendo-public-website/soluciones/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
