@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dafendo</title>
-    <link>https://dafendo-devs.github.io/dafendo-public-website/tags/</link>
+    <link>https://dafendo.com/tags/</link>
     <description>Recent content in Tags on Dafendo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>Dafendo © 2026 - Todos los derechos reservados.</copyright>
-    <atom:link href="https://dafendo-devs.github.io/dafendo-public-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dafendo.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
